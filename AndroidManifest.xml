@@ -1,4 +1,6 @@
 <?xml version="1.0"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.google.android.gms.auth.api">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.google.android.gms.auth.api"
+    android:versionCode="1120"
+    android:versionName="11.2.0">
   <uses-sdk android:minSdkVersion="14"/>
 </manifest>
